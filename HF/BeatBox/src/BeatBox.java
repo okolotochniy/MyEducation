@@ -76,14 +76,14 @@ public class BeatBox {
         JScrollPane scrollPane = new JScrollPane(textIn);
         scrollPane.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         scrollPane.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-        .add(scrollPane);
+
         JScrollPane scrollPaneAria = new JScrollPane(textOut);
         scrollPaneAria.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         scrollPaneAria.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-        panel.add(scrollPaneAria);
+
 
         JButton button = new JButton("Отправить");
-        button.addActionListener(new SendListener());
+        //button.addActionListener(new SendListener());
 
 
         Box nameBox = new Box((BoxLayout.Y_AXIS));
