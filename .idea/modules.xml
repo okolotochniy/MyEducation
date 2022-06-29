@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HF/Animate/Animate.iml" filepath="$PROJECT_DIR$/HF/Animate/Animate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/BeatBox/BeatBox.iml" filepath="$PROJECT_DIR$/HF/BeatBox/BeatBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/Button/Button.iml" filepath="$PROJECT_DIR$/HF/Button/Button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/DailyAdviceClient/DailyAdviceClient.iml" filepath="$PROJECT_DIR$/HF/DailyAdviceClient/DailyAdviceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/DailyAdviceServer/DailyAdviceServer.iml" filepath="$PROJECT_DIR$/HF/DailyAdviceServer/DailyAdviceServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Git.iml" filepath="$PROJECT_DIR$/.idea/Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/Graphics/Graphics.iml" filepath="$PROJECT_DIR$/HF/Graphics/Graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/Gui1/Gui1.iml" filepath="$PROJECT_DIR$/HF/Gui1/Gui1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/MIDI/MIDI.iml" filepath="$PROJECT_DIR$/HF/MIDI/MIDI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/MidiCmd/MidiCmd.iml" filepath="$PROJECT_DIR$/HF/MidiCmd/MidiCmd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/MusicPlaer1/MusicPlaer1.iml" filepath="$PROJECT_DIR$/HF/MusicPlaer1/MusicPlaer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/HF/MusicPlayer/MusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/QuizCard/QuizCard.iml" filepath="$PROJECT_DIR$/HF/QuizCard/QuizCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/SimpleChatClient/SimpleChatClient.iml" filepath="$PROJECT_DIR$/HF/SimpleChatClient/SimpleChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/SimpleChatServer/SimpleChatServer.iml" filepath="$PROJECT_DIR$/HF/SimpleChatServer/SimpleChatServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/HF/TestThread/TestThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/TestThred/TestThred.iml" filepath="$PROJECT_DIR$/HF/TestThred/TestThred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HF/TextArial/TextArial.iml" filepath="$PROJECT_DIR$/HF/TextArial/TextArial.iml" />
+    </modules>
+  </component>
+</project>
