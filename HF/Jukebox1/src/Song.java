@@ -1,9 +1,17 @@
+import java.util.Comparator;
+
 public class Song implements Comparable<Song> {
     String title;
     String artist;
     String raring;
     String bmp;
 
+    static class ArtistCompare implements Comparator<Song>{
+        @Override
+        public int compare(Song o1, Song o2) {
+            return o1.getArtist().compareTo(o2.getArtist());
+        }
+    }
     public Song(String title, String artist, String raring, String bmp) {
         this.title = title;
         this.artist = artist;
@@ -29,7 +37,7 @@ public class Song implements Comparable<Song> {
 
     @Override
     public String toString() {
-        return title;
+        return title + ":" + artist;
     }
 
     @Override

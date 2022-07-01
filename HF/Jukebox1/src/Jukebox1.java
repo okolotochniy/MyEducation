@@ -16,6 +16,11 @@ public class Jukebox1 {
         System.out.println(songList);
         Collections.sort(songList);
         System.out.println(songList);
+
+        Song.ArtistCompare artistCompare = new Song.ArtistCompare();
+        songList.sort(artistCompare);
+
+        System.out.println(songList);
     }
 
     void getSongs() {
