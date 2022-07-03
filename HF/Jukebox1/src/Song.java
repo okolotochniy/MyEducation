@@ -6,6 +6,13 @@ public class Song implements Comparable<Song> {
     String raring;
     String bmp;
 
+    static class TitleCompare implements Comparator<Song>{
+        @Override
+        public int compare(Song o1, Song o2) {
+            return o1.getTitle().compareTo(o2.getTitle());
+        }
+    }
+
     static class ArtistCompare implements Comparator<Song>{
         @Override
         public int compare(Song o1, Song o2) {
@@ -37,7 +44,7 @@ public class Song implements Comparable<Song> {
 
     @Override
     public String toString() {
-        return title + ":" + artist;
+        return title;
     }
 
     @Override

@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.HashSet;
 
 public class Jukebox1 {
     ArrayList<Song> songList = new ArrayList<>();
@@ -14,13 +15,17 @@ public class Jukebox1 {
     public void go() {
         getSongs();
         System.out.println(songList);
-        Collections.sort(songList);
+
+        Song.TitleCompare titleCompare = new Song.TitleCompare();
+        songList.sort(titleCompare);
         System.out.println(songList);
 
         Song.ArtistCompare artistCompare = new Song.ArtistCompare();
         songList.sort(artistCompare);
-
         System.out.println(songList);
+
+        HashSet<Song> songHashSet = new HashSet<>(songList);
+        System.out.println(songHashSet);
     }
 
     void getSongs() {
