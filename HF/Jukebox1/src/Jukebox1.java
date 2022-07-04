@@ -1,10 +1,7 @@
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.HashSet;
+import java.util.*;
 
 public class Jukebox1 {
     ArrayList<Song> songList = new ArrayList<>();
@@ -24,8 +21,8 @@ public class Jukebox1 {
         songList.sort(artistCompare);
         System.out.println(songList);
 
-        HashSet<Song> songHashSet = new HashSet<>(songList);
-        System.out.println(songHashSet);
+       TreeSet<Song> songSet = new TreeSet<>(songList);
+        System.out.println(songSet);
     }
 
     void getSongs() {
