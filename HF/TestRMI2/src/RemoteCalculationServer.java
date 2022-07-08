@@ -1,9 +1,10 @@
 import java.rmi.RemoteException;
 
 public class RemoteCalculationServer implements Calculator {
-
     @Override
-    public int multiply(int x, int y) throws RemoteException {
-        return x * y;
+    public int[] multiply(IntObject intObject) throws RemoteException {
+        int[] result = {intObject.getX() + intObject.getY(), intObject.getX() - intObject.getY(), intObject.getX()
+                * intObject.getY(), intObject.getX() / intObject.getY()};
+        return result;
     }
 }
