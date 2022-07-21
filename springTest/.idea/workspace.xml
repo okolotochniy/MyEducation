@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032a399f-1e81-4d26-b547-6cedc90a541c" name="Changes" comment="add spring test">
-      <change afterPath="$PROJECT_DIR$/../HF/PhraseOMatic/PhraseOMatic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HF/PhraseOMatic/src/KathyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HF/PhraseOMatic/src/PhraseOMatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HF/TestMVN/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HF/TestMVN/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HF/TestMVN/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test.java" afterDir="false" />
+    <list default="true" id="032a399f-1e81-4d26-b547-6cedc90a541c" name="Changes" comment="add test">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/myApp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,7 +43,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CAW8KRsqyO2a6JceB5TuuMMyfF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,24 +56,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "D:/Git/springTest/src/main/java",
+    "last_opened_file_path": "D:/Git/springTest/resources",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "ef21f0e4598a128498dcbd8d0fea2fd3"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
-      <module name="springTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\springTest\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\springTest\src\spring_introduction" />
+      <recent name="D:\Git\springTest\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test5">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Test" />
       <module name="springTest" />
@@ -77,10 +89,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.Test2" />
+      <module name="springTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.Test3" />
+      <module name="springTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.Test5" />
+      <module name="springTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.spring_introduction.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.Test1" />
+      <module name="springTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.org.example.spring_introduction.Test1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +153,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658245712560</updated>
-      <workItem from="1658245713815" duration="1429000" />
+      <workItem from="1658245713815" duration="1561000" />
+      <workItem from="1658297766536" duration="5323000" />
+      <workItem from="1658331404492" duration="2824000" />
+      <workItem from="1658386437375" duration="2066000" />
+      <workItem from="1658411180002" duration="2702000" />
     </task>
     <task id="LOCAL-00001" summary="add spring test">
       <created>1658246913000</created>
@@ -101,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658246913000</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add test">
+      <created>1658247215213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658247215213</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +192,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add spring test" />
-    <option name="LAST_COMMIT_MESSAGE" value="add spring test" />
+    <MESSAGE value="add test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test" />
   </component>
 </project>
