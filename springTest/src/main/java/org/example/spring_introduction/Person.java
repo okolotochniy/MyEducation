@@ -1,18 +1,21 @@
 package org.example.spring_introduction;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("personBean")
 public class Person {
     private Pet pet;
     private String surname;
     private int age;
-/*
-    public Person(Pet pet) {
+/*    public Person(Pet pet) {
         this.pet = pet;
         System.out.println("Person bean is created");
-    }
-*/
-    public Person() {
+    }*/
+/*    public Person() {
         System.out.println("Person bean is created");
-    }
+    }*/
+    @Autowired
     public void setPet(Pet pet) {
         this.pet = pet;
         System.out.println("Class person: set pet");
