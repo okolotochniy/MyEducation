@@ -4,12 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="032a399f-1e81-4d26-b547-6cedc90a541c" name="Changes" comment="spring lesson 13">
-      <change afterPath="$PROJECT_DIR$/resources/applicationContext3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/ConfigWithAnnotations1.java" afterDir="false" />
+    <list default="true" id="032a399f-1e81-4d26-b547-6cedc90a541c" name="Changes" comment="@Componetn &#10;@Autowired">
+      <change afterPath="$PROJECT_DIR$/../HF/BeatBox/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD1Java/src/main/java/JDBCPostgreSQLExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD1Java/src/main/java/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/.idea/artifacts/TestCRUD2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/.idea/libraries/postgresql_42_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/TestCRUD2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/src/JDBCPostgreSQLExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestCRUD2/src/JdbcConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/AbstractLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/SchoolLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/UniLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/ExceptionHandlingAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/MyPointcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/NewLoggingAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/SecurityAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/UniversityLoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_test/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hibernate_test/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hidernate_test2/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hidernate_test2/entity/Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hidernate_test2/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Test6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/myApp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/myApp.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/spring_introduction/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +66,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="hibernate-configuration-3.0" />
+        <option value="hibernate-main-3.0" />
         <option value="Class" />
       </list>
     </option>
@@ -49,17 +97,25 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_directory_selection": "D:/Git/springTest/src/main/java",
-    "last_opened_file_path": "D:/Git/springTest/resources",
+    "last_opened_file_path": "D:/Git/HF/BeatBox",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Console",
+    "settings.editor.selected.configurable": "Errors",
     "settings.editor.splitter.proportion": "0.26293996",
     "spring.configuration.checksum": "248dd43da819cd2723fa6460c6d404b4"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="aop.aspects" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Git\springTest\resources" />
     </key>
@@ -67,14 +123,19 @@
       <recent name="D:\Git\springTest\src\spring_introduction" />
       <recent name="D:\Git\springTest\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hidernate_test2" />
+      <recent name="hidernate_test2.entity" />
+      <recent name="hibernate_test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ConfigWithAnnotations1">
-    <configuration name="ConfigWithAnnotations1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.ConfigWithAnnotations1" />
+  <component name="RunManager" selected="Application.Test5">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_test.Test1" />
       <module name="springTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.spring_introduction.*" />
+          <option name="PATTERN" value="hibernate_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,19 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.spring_introduction.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.Test1" />
-      <module name="springTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.spring_introduction.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.Test2" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_test.Test4" />
       <module name="springTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.spring_introduction.*" />
+          <option name="PATTERN" value="hibernate_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.spring_introduction.Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.Test3" />
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_test.Test5" />
       <module name="springTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.spring_introduction.*" />
+          <option name="PATTERN" value="hibernate_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +169,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.spring_introduction.Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.spring_introduction.Test5" />
+    <configuration name="hibernate_test.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_test.Test2" />
       <module name="springTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.spring_introduction.*" />
+          <option name="PATTERN" value="hibernate_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hibernate_test.Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_test.Test3" />
+      <module name="springTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConfigWithAnnotations1" />
-        <item itemvalue="Application.org.example.spring_introduction.Test3" />
-        <item itemvalue="Application.org.example.spring_introduction.Test5" />
-        <item itemvalue="Application.org.example.spring_introduction.Test2" />
-        <item itemvalue="Application.org.example.spring_introduction.Test1" />
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.hibernate_test.Test3" />
+        <item itemvalue="Application.hibernate_test.Test2" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +230,24 @@
       <workItem from="1658595678438" duration="2744000" />
       <workItem from="1658598466364" duration="968000" />
       <workItem from="1658599456697" duration="3156000" />
+      <workItem from="1658606962609" duration="644000" />
+      <workItem from="1658641248456" duration="593000" />
+      <workItem from="1658825459153" duration="1369000" />
+      <workItem from="1658915137398" duration="8774000" />
+      <workItem from="1659352937946" duration="4616000" />
+      <workItem from="1659390757871" duration="140000" />
+      <workItem from="1659430765737" duration="1864000" />
+      <workItem from="1659433021201" duration="20000" />
+      <workItem from="1659476232461" duration="3010000" />
+      <workItem from="1659519835342" duration="8242000" />
+      <workItem from="1660040015190" duration="8969000" />
+      <workItem from="1660409121652" duration="49000" />
+      <workItem from="1660563981858" duration="4001000" />
+      <workItem from="1660640963656" duration="10176000" />
+      <workItem from="1660653960142" duration="2585000" />
+      <workItem from="1660813774671" duration="247000" />
+      <workItem from="1660814645346" duration="7072000" />
+      <workItem from="1660843543055" duration="136000" />
     </task>
     <task id="LOCAL-00001" summary="add spring test">
       <created>1658246913000</created>
@@ -185,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658421153610</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="@Componetn &#10;@Autowired">
+      <created>1658607027377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658607027377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +298,8 @@
     <MESSAGE value="add spring test" />
     <MESSAGE value="add test" />
     <MESSAGE value="spring lesson 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring lesson 13" />
+    <MESSAGE value="@Componetn &#10;@Autowired" />
+    <option name="LAST_COMMIT_MESSAGE" value="@Componetn &#10;@Autowired" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
