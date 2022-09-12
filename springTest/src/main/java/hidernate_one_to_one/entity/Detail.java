@@ -1,4 +1,4 @@
-package hidernate_test2.entity;
+package hidernate_one_to_one.entity;
 
 import javax.persistence.*;
 
@@ -15,12 +15,13 @@ public class Detail {
     private String phoneNumber;
     @Column(name = "email")
     private String email;
+    @OneToOne(mappedBy = "empDetail", cascade = CascadeType.ALL)
+    private Employee employee;
 
     public Detail() {
     }
 
-    public Detail(int id, String city, String phoneNumber, String email) {
-        this.id = id;
+    public Detail(String city, String phoneNumber, String email) {
         this.city = city;
         this.phoneNumber = phoneNumber;
         this.email = email;
@@ -66,5 +67,13 @@ public class Detail {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    public Employee getEmployee() {
+        return employee;
+    }
+
+    public void setEmployee(Employee employee) {
+        this.employee = employee;
     }
 }
