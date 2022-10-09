@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/HF/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/HF/TestThread/TestThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/HF/TestThred/TestThred.iml" filepath="$PROJECT_DIR$/HF/TestThred/TestThred.iml" />
       <module fileurl="file://$PROJECT_DIR$/HF/TextArial/TextArial.iml" filepath="$PROJECT_DIR$/HF/TextArial/TextArial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springTest/springTest.iml" filepath="$PROJECT_DIR$/springTest/springTest.iml" />
     </modules>
   </component>
 </project>
