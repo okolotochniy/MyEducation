@@ -1,10 +1,10 @@
-package org.batsurin.spring.rest.service;
+package org.test.spring.rest.dao;
 
-import org.batsurin.spring.rest.entity.Employee;
+import org.test.spring.rest.entity.Employee;
 
 import java.util.List;
 
-public interface EmployeeService {
+public interface EmployeeDAO {
 
     public List<Employee> getAllEmployees();
 

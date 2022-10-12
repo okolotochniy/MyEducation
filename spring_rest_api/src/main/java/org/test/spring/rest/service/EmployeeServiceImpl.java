@@ -1,10 +1,11 @@
-package org.batsurin.spring.rest.service;
+package org.test.spring.rest.service;
 
-import org.batsurin.spring.rest.dao.EmployeeDAO;
-import org.batsurin.spring.rest.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import org.test.spring.rest.dao.EmployeeDAO;
+import org.test.spring.rest.entity.Employee;
 
 import java.util.List;
 

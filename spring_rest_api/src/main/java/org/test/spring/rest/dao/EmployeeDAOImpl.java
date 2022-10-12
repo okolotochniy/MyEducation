@@ -1,11 +1,11 @@
-package org.batsurin.spring.rest.dao;
+package org.test.spring.rest.dao;
 
-import org.batsurin.spring.rest.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
+import org.test.spring.rest.entity.Employee;
 
 import java.util.List;
 

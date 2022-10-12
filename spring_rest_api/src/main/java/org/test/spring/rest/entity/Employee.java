@@ -1,4 +1,4 @@
-package org.batsurin.spring.rest.entity;
+package org.test.spring.rest.entity;
 
 import javax.persistence.*;
 

@@ -1,4 +1,4 @@
-package org.batsurin.spring.rest.configuration;
+package org.test.spring.rest.configuration;
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
 import org.springframework.context.annotation.Bean;
@@ -14,7 +14,7 @@ import java.beans.PropertyVetoException;
 import java.util.Properties;
 
 @Configuration
-@ComponentScan(basePackages = "org.batsurin.spring.rest")
+@ComponentScan(basePackages = "org.test.spring.rest")
 @EnableWebMvc
 @EnableTransactionManagement
 public class MyConfig {
@@ -35,7 +35,7 @@ public class MyConfig {
     public LocalSessionFactoryBean sessionFactory() {
         LocalSessionFactoryBean sessionFactory = new LocalSessionFactoryBean();
         sessionFactory.setDataSource(dataSource());
-        sessionFactory.setPackagesToScan("org.batsurin.spring.rest.entity");
+        sessionFactory.setPackagesToScan("org.test.spring.rest.entity");
 
         Properties hibernateProperties = new Properties();
         hibernateProperties.setProperty("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");

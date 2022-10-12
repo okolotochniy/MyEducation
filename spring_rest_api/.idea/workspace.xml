@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="testtt:war exploded" />
-    </artifacts-to-build>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cabdcb0-a7c6-46c3-8d4d-6c12c8ea54f8" name="Changes" comment="spring_rest_apiii">
-      <change afterPath="$PROJECT_DIR$/../spring_rest_api/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="d6f42f38-70fc-4729-a677-9f0cd25f6780" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_rest_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/batsurin/spring/rest/configuration/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/test/spring/rest/configuration/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/batsurin/spring/rest/configuration/MyWebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/test/spring/rest/configuration/MyWebInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/batsurin/spring/rest/controller/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/test/spring/rest/controller/MyRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/batsurin/spring/rest/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/test/spring/rest/dao/EmployeeDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/batsurin/spring/rest/dao/EmployeeDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/test/spring/rest/dao/EmployeeDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/batsurin/spring/rest/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/test/spring/rest/entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/batsurin/spring/rest/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/test/spring/rest/service/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/batsurin/spring/rest/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_rest_api/src/main/java/org/test/spring/rest/service/EmployeeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/batsurin/spring/rest/configuration/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/spring/rest/configuration/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/batsurin/spring/rest/configuration/MyWebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/spring/rest/configuration/MyWebInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/batsurin/spring/rest/controller/MyRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/spring/rest/controller/MyRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/batsurin/spring/rest/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/spring/rest/dao/EmployeeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/batsurin/spring/rest/dao/EmployeeDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/spring/rest/dao/EmployeeDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/batsurin/spring/rest/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/spring/rest/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/batsurin/spring/rest/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/spring/rest/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/batsurin/spring/rest/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/spring/rest/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testtt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testtt/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +46,14 @@
     <option name="myId2Visible">
       <map>
         <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FynVjU4aX3dkHBbR4VZA9rmpvq" />
+  <component name="ProjectId" id="2G24SMZND3IZ4ZNvSb0hOg6X4hL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -73,30 +63,26 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Git",
-    "spring.configuration.checksum": "a26dc4b955b9499895a2778455d3d1d1"
+    "last_opened_file_path": "D:/Git/spring_rest_api/src/main/java/org/test/spring/rest"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Git\testtt\src\main\java" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="rest" />
+      <recent name="D:\Git\spring_rest_api\src\main\java\org\test\spring\rest" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="testtt:war exploded">
+        <artifact name="spring_rest_api:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/testtt_war_exploded" />
+            <option name="CONTEXT_PATH" value="/spring_rest_api" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="4fea5a94-9a39-4913-8750-ca24c5b8f746" />
+        <option name="BASE_DIRECTORY_NAME" value="5b81d207-e157-48a0-b9fd-7402ce4da9b8" />
         <option name="HTTP_PORT" value="8081" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
@@ -105,7 +91,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="62588" />
+        <option name="DEBUG_PORT" value="62840" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -170,7 +156,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="testtt:war exploded" />
+          <artifact name="spring_rest_api:war exploded" />
         </option>
       </method>
     </configuration>
@@ -178,23 +164,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5cabdcb0-a7c6-46c3-8d4d-6c12c8ea54f8" name="Changes" comment="" />
-      <created>1665473219027</created>
+      <changelist id="d6f42f38-70fc-4729-a677-9f0cd25f6780" name="Changes" comment="" />
+      <created>1665573348714</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665473219027</updated>
-      <workItem from="1665473220461" duration="267000" />
-      <workItem from="1665481504768" duration="2630000" />
-      <workItem from="1665572683143" duration="1387000" />
+      <updated>1665573348714</updated>
+      <workItem from="1665573350305" duration="704000" />
     </task>
-    <task id="LOCAL-00001" summary="spring_rest_apiii">
-      <created>1665484063765</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1665484063765</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,9 +186,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="spring_rest_apiii" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring_rest_apiii" />
   </component>
 </project>

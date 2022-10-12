@@ -1,4 +1,4 @@
-package org.batsurin.spring.rest.configuration;
+package org.test.spring.rest.configuration;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
