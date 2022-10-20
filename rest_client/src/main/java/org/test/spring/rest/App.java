@@ -14,17 +14,17 @@ public class App
 
         Communication communication = context.getBean("communication", Communication.class);
 
-//        List<Employee> allEmployees = communication.getAllEmployees();
-//        for (Employee employee :allEmployees) {
-//            System.out.println(employee);
-//        }
+        List<Employee> allEmployees = communication.getAllEmployees();
+        for (Employee employee :allEmployees) {
+            System.out.println(employee);
+        }
 
 //        Employee empById = communication.getEmployee(2);
 //        System.out.println(empById);
 
-        Employee employee = new Employee("Gena", "Bukin", "ITTTT", 10);
-        employee.setId(10);
-        communication.saveEmployee(employee);
+//        Employee employee = new Employee("Gena", "Bukin", "ITTTT", 10);
+//        employee.setId(10);
+//        communication.saveEmployee(employee);
 
 //        communication.deleteEmployee(10);
     }

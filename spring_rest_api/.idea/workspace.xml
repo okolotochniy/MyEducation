@@ -9,20 +9,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5087f6-08b0-4f29-8c5f-9641deb93a0d" name="Changes" comment="spring_rest_api delete">
-      <change afterPath="$PROJECT_DIR$/../rest_client/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/src/main/java/org/test/spring/rest/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/src/main/java/org/test/spring/rest/Communication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/src/main/java/org/test/spring/rest/configuration/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/src/main/java/org/test/spring/rest/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest_client/src/test/java/org/test/spring/rest/AppTest.java" afterDir="false" />
+    <list default="true" id="d6f42f38-70fc-4729-a677-9f0cd25f6780" name="Changes" comment="spring_rest_api post">
+      <change afterPath="$PROJECT_DIR$/../spring_security/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/src/main/java/org/test/spring/security/configuration/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/src/main/java/org/test/spring/security/configuration/MySecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/src/main/java/org/test/spring/security/configuration/MySecurityInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/src/main/java/org/test/spring/security/configuration/MyWebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_security/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest_client/src/main/java/org/test/spring/rest/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rest_client/src/main/java/org/test/spring/rest/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,24 +69,18 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G24SMZND3IZ4ZNvSb0hOg6X4hL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Git/spring_rest_api/src/main/java/org/test/spring/rest",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "5b2ae747c9e4270c86d8fe74192ae5da"
+    "last_opened_file_path": "D:/Git/rest_client",
+    "spring.configuration.checksum": "53743cdd33e7afd3a1930b53c5bae60d"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -102,7 +99,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="1597b476-ca1e-41c1-8cb6-ab02f191d294" />
+        <option name="BASE_DIRECTORY_NAME" value="5b81d207-e157-48a0-b9fd-7402ce4da9b8" />
         <option name="HTTP_PORT" value="8081" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
@@ -111,7 +108,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="59233" />
+        <option name="DEBUG_PORT" value="62840" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -184,7 +181,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff5087f6-08b0-4f29-8c5f-9641deb93a0d" name="Changes" comment="spring_rest_api delete" />
+      <changelist id="d6f42f38-70fc-4729-a677-9f0cd25f6780" name="Changes" comment="" />
       <created>1665573348714</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -195,7 +192,6 @@
       <workItem from="1665921518512" duration="950000" />
       <workItem from="1665948119957" duration="3636000" />
       <workItem from="1665980866168" duration="1725000" />
-      <workItem from="1666125073317" duration="1608000" />
     </task>
     <task id="LOCAL-00001" summary="spring_rest_api good">
       <created>1665574184405</created>
@@ -204,14 +200,7 @@
       <option name="project" value="LOCAL" />
       <updated>1665574184405</updated>
     </task>
-    <task id="LOCAL-00002" summary="spring_rest_api delete">
-      <created>1666089747848</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1666089747848</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,9 +218,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="spring_rest_api good" />
-    <MESSAGE value="spring_rest_api delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring_rest_api delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring_rest_api good" />
   </component>
 </project>
