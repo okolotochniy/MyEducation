@@ -15,7 +15,7 @@ public class Communication {
 
     @Autowired
     private RestTemplate restTemplate;
-    private final String URL = "http://localhost:8081/spring_rest_api/api/employees";
+    private final String URL = "http://localhost:8081/api/employees";
 
     public List<Employee> getAllEmployees() {
 
